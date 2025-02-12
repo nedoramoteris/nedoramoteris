@@ -1,0 +1,37 @@
+.forksaversenaujienos{height:100px;padding:3px; overflow:hidden;text-align:justify;font-size:13px;font-family:'archivo',sans-serif;}
+.forksaversenaujienos:hover {
+overflow-y:auto;
+}
+
+.naujanaujiena {
+  border-radius:7px;
+text-transform:uppercase;
+  font-size: 7px;
+  font-weight:bold;
+    letter-spacing: 1px;
+  line-height:11px;
+  padding:5px; margin-right:5px;
+  background-image: linear-gradient(to right, #613830, #647275) !important;
+  color: white; width:98%;margin-bottom:3px;margin-left:-3px;}
+
+.senanaujiena  {
+  border-radius:7px;
+text-transform:uppercase;
+  font-size: 7px;
+  font-weight:bold;
+    letter-spacing: 1px;
+  line-height:11px;
+  padding:5px; margin-top:5px;
+  background:#292725;) !important;
+  width:98%;margin-bottom:3px;}
+.dark-mode .senanaujiena {background:#f5f5f5;}
+
+.naujienusaltinis {font-size:8px;text-transform:uppercase;font-weight:bold;font-family:'archivo',sans-serif;}
+
+.pranesimotekstas {font-size:10px; text-transform:none !important; font-family:'archivo',sans-serif;letter-spacing:1px;width:98%;}
+
+pranesimotekstas {font-size:10px; text-transform:none !important; font-family:'archivo',sans-serif;letter-spacing:1px;width:98%;margin-left:2px;}
+
+.forksoversedemesiui {font-size:10px; text-transform:none !important; font-family:'archivo',sans-serif;
+  letter-spacing:1px;font-weight:bold;background-image: linear-gradient(to right, #613830, #647275) !important;
+  padding:5px; border-radius:7px; width:auto; color:white; width:155px; margin-bottom:-12px;}
