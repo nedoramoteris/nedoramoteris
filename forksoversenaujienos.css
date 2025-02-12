@@ -1,0 +1,68 @@
+.adminimagecolumn {width:140px; height:50px;object-fit:cover; border-radius:7px;margin-bottom:3px;}
+
+.naujienucolumn {
+    width: 150px;
+    border-radius: 7px;
+    background: #363633;
+    padding: 5px;
+    height: 1px; vertical-align:middle;
+text-transform:uppercase;font-weight:bold;font-size:10px;color:#6E6761;
+}
+
+.naudingosnuorodos{width: 150px; border-radius:7px; background: #292725;; padding: 0cm 5.4pt; height: 54.2px;font-family:'archivo', sans-serif;font-size:10px;color:#6E6761; text-transform:uppercase;font-weight:bold;text-align:center;padding:7px;line-height:17px;vertical-align:middle;text-align:justify;}
+.naudingosnuorodos a{text-decoration:none;letter-spacing:1px;font-weight:bold;}
+.naudingosnuorodos a:hover{font-style:italic;letter-spacing:2px;}
+
+.welcometoforkscolumn {width: 350px; border-radius: 7px; padding: 0cm 5.4pt; vertical-align: top; background-image: linear-gradient(to right, #613830, #647275) !important; height: 30.575px;vertical-align:middle;text-transform:uppercase;font-size:10px;font-weight:bold;color:white;}
+
+.administracijoscolumn{width: 100px; border-radius:7px; background: #292725; padding: 0cm 5.4pt; vertical-align: top; height: 54.2px;font-family:'archivo', sans-serif;font-size:10px;color:#6E6761; text-transform:uppercase;font-weight:bold;text-align:center;padding:7px;vertical-align:middle;margin-right:5px;}
+
+.grazustekstaslol{padding: 0cm 5.4pt; height: 55px; vertical-align: top;vertical-align:middle;text-align:justify;font-size:9px;text-transform:uppercase;font-weight:bold;}
+.naujienutekstocolumn{width: 296px; padding: 0cm 5.4pt;background:#292725;border-radius:7px;}
+.forksaversenaujienos{height:100px;padding:3px; overflow:hidden;text-align:justify;font-size:13px;}
+.forksaversenaujienos:hover {
+overflow-y:auto;
+}
+
+.apimavisageneralitieslentele{font-family:'archivo', sans-serif;
+border-spacing: 5px; /* Adjust the spacing */
+    border-collapse: separate; /* Ensure spacing takes effect */}
+
+.rollthecredits{border-radius:7px;
+text-transform:uppercase;
+  font-size: 7px;
+  font-weight:bold;
+    letter-spacing: 1px;
+  line-height:11px;
+  padding:5px; 
+  background-image: linear-gradient(to right, #613830, #647275) !important;
+  color: white; width:auto;;margin-bottom:3px;
+float:right;}
+
+.grazaustekstoimage {width:100px;height:150px; object-fit:cover; border-radius:7px;margin-right:5px;margin-left:-6px;float: left;}
+.apatinejuosta{background: #292725; width:1000px;border-radius:7px;font-family:'archivo', sans-serif; color:#6E6761;padding:5px;text-transform:uppercase;font-size:9px;font-weight:bold;text-align:center;}
+
+.naujanaujiena {
+  border-radius:7px;
+text-transform:uppercase;
+  font-size: 7px;
+  font-weight:bold;
+    letter-spacing: 1px;
+  line-height:11px;
+  padding:5px; margin-right:5px;
+  background-image: linear-gradient(to right, #613830, #647275) !important;
+  color: white; width:98%;margin-bottom:3px;margin-left:-3px;}
+
+.senanaujiena  {
+  border-radius:7px;
+text-transform:uppercase;
+  font-size: 7px;
+  font-weight:bold;
+    letter-spacing: 1px;
+  line-height:11px;
+  padding:5px; margin-top:5px;
+  background:#363633;) !important;
+  width:98%;margin-bottom:3px;margin-left:-3px;}
+
+.naujienusaltinis {font-size:8px;text-transform:uppercase;font-weight:bold;font-style:italic;letter-spacing:1px;}
+
