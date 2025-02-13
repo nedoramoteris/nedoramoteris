@@ -1,0 +1,115 @@
+.dark-mode .fa_like_list {background:#f5f5f5 !important;}
+.dark-mode .fa_dislike_list {background:#f5f5f5 !important;}
+.dark-mode button.rep-button.fa_like {background:#f5f5f5 !important; border:white !important;box-shadow:none !important;}
+.dark-mode button.rep-button.fa_liked {background:#f5f5f5 !important; border:white !important;box-shadow:none !important;}
+.dark-mode button.rep-button.fa_dislike {background:#f5f5f5 !important; border:white !important;box-shadow:none !important;}
+.dark-mode button.rep-button.fa_disliked {background:#f5f5f5 !important; border:white !important;box-shadow:none !important;}
+.dark-mode .thHead {background: #f5f5f5 !important; border:none;}
+.dark-mode .inesosmygtukas {border:none;}
+.dark-mode .code {color: #828282 !important; background: #f5f5f5 !important;}
+.dark-mode .quote {color: #828282 !important; background: #f5f5f5 !important;}
+.dark-mode .postbody, 
+.dark-mode .postbody * { /* Targets nested elements too */
+    text-shadow: none !important; 
+    box-shadow: none !important;
+border-color: #e0dddd !important;}
+.dark-mode .Gqeel {background: #e0dddd;}
+.dark-mode .Dayqeel {background: #fafbfc;}
+.dark-mode .Onlineqeel {background: #fafbfc;}
+.dark-mode .tleQeel {background: #e0dddd;}
+.dark-mode .tlPQEEL {background: #fafbfc;}
+.dark-mode .tlMQEEL {background: #fafbfc;}
+.dark-mode .lstQEEL {background: #e0dddd;}
+body.dark-mode {background: linear-gradient(to right, #655345, #a69b97, #655345);} /*DARK MODE BACGROUNDAS*/
+.dark-mode .vote-bar-plus {background-image: url('https://i.imgur.com/gCnFozs.gif');}
+.dark-mode rpgnaujienos {color:#f5f5f5;}
+.dark-mode dmmsg {color: #828282; background: #f5f5f5;}
+.dark-mode .linijapotema {display:none;}
+.dark-mode .siuometuonline a{background:none;}
+.dark-mode img[src="https://i.imgur.com/NsN72B3.png"] {
+    display: none !important;}
+.dark-mode .hr {visibility: hidden !important;}
+.dark-mode .mainoption {border: #fafbfc !important;box-shadow:none !important; background:#f5f5f5 !important;}
+.dark-mode .lastvisit {border: #fafbfc !important;box-shadow:none !important; background:#f5f5f5 !important;}
+.dark-mode .liteoption {border: #fafbfc !important;box-shadow:none !important; background:#f5f5f5 !important;}
+.dark-mode .genmed {text-shadow:none !important;}
+.dark-mode .post {border: #fafbfc !important;box-shadow:none !important; background:#f5f5f5 !important;}
+.dark-mode .thtop {border: #fafbfc !important;box-shadow:none !important; background:#fafbfc !important;}
+.dark-mode .generalitiestekstukas {border: #fafbfc;}
+.dark-mode .forumline {border: none !important;}
+.dark-mode .catHead {border: #fafbfc !important;box-shadow:none !important; background:#fafbfc !important;}
+.dark-mode .catbottom {border: #f5f5f5 !important;box-shadow:none !important; background:#f5f5f5 !important;}
+.dark-mode .switcheroo__squircle {border: #f5f5f5;box-shadow:none; background:none;}
+.dark-mode .switcheroo__squircle img {border: #f5f5f5;box-shadow:none; background:none;}
+.dark-mode .switcheroo {background: #655345 !important; border: #f5f5f5;box-shadow:none;}
+.dark-mode .forumline {border: #f5f5f5 !important;box-shadow:none;}
+.dark-mode .forumostatistika {background: #fafbfc !important; border: #f5f5f5;box-shadow:none;}
+.dark-mode .prisijungepara {background: #fafbfc !important; border: #f5f5f5;box-shadow:none;}
+.dark-mode .siandiensiasavaite {background: #fafbfc !important; border: #f5f5f5;box-shadow:none;}
+.dark-mode .gimtadieniai {border: #f5f5f5;box-shadow:none;}
+.dark-mode .group {background: white !important; border: #f5f5f5;box-shadow:none;}
+.dark-mode .postodata {background: #f5f5f5 !important;}
+.dark-mode .post-options a{background: #f5f5f5 !important; border:none;}
+.dark-mode .post-options {border:none;}
+.dark-mode .welcometoforks {border: #f5f5f5 !important; background: #f5f5f5 !important; box-shadow:none;}
+.dark-mode .forumline {border: solid 1px #f5f5f5;}
+.dark-mode .profileInfo:hover{background: rgba(255, 255, 255, 0.95);}
+.dark-mode .profileInfo{background: white;}
+.dark-mode .row1 {background: #fafbfc;!important;}
+.dark-mode .row3 {background: #fafbfc;!important;}
+.dark-mode .row3right {background: #fafbfc;!important; border:none !important;}
+.dark-mode .bodyline {background: #f5f5f5 !important;}
+.dark-mode .boxIIFRM {border: #f1f2f3}
+.dark-mode .posticon2:hover{   background: #f1f2f3;}
+.dark-mode .navbar_arte { background: #f5f5f5;   }
+.dark-mode .avatar_navbar img { background: #f1f2f3;}
+.dark-mode #groupLegend {  color: #f1f2f3;}
+.dark-mode .border { padding:3px; border:1px solid #f1f2f3; }
+.dark-mode .navbar_arte form { background: #fafbfc; color: #6E6761 !important;}
+.dark-mode .navbar_arte form input[type="submit"] { color: #6E6761 !important; }
+.dark-mode .FRM {margin:0 auto 10px;background:#fafbfc;}
+.dark-mode .descFRM {background:#fafbfc;}
+.dark-mode .avaFRM { background: white!important; opacity: 1; border:#f8f8f8; box-shadow:none; }
+.dark-mode .sfFRM {  background:#f5f5f5; color:#fafbfc; border: #f5f5f5;}
+.dark-mode .imgFRM {background-image: url(''), linear-gradient(to right, #f5f5f5, #f5f5f5); border:#f5f5f5; box-shadow: none;}
+.dark-mode .sfFRM a {border-bottom-color:#fafbfc; color: !important; }
+.dark-mode .generremas {border: #f5f5f5 !important; background: #f5f5f5 !important; box-shadow:none;}
+.dark-mode .adminimage {  border: 2px solid #fafbfc;   background: #fafbfc;border-radius: 7px;box-shadow:none;}
+.dark-mode .baigiamasiszodis {border: #f5f5f5 !important; background: #f5f5f5 !important; box-shadow:none;}
+.dark-mode .btmPFIL {background:#fafbfc;  /* MODIFIABLE */}
+.dark-mode .avatarasnariusarase img { border: 1px solid #fafbfc; background:#f5f5f5;}
+.dark-mode .row2 {background:#fafbfc;}
+.dark-mode .apsilankymasirpostai {     border: 1px solid #fafbfc; background: #fafbfc;}
+.dark-mode .paskutinezinute {  border: 1px solid #fafbfc;     background: #fafbfc;}
+.dark-mode .repliesandviews {border: 1px solid #fafbfc;}
+.dark-mode .naujaspostastemose{  border: 1px solid #fafbfc;}
+.dark-mode .temosirpostai{border: 1px solid #fafbfc;}
+.dark-mode .pavadinimasdatavieta {  border: 1px solid #fafbfc;   background: #fafbfc;}
+.dark-mode .vietoves {  background: #fafbfc;}
+.dark-mode .naujaspostas{background: #fafbfc;}
+.dark-mode span.lastpost-avatar img { border: 2px solid #fafbfc;  background: #fafbfc;}
+.dark-mode .forumlink {background: #fafbfc;}
+.dark-mode .profilioInfoKlausimas {color:#fbfbfb;}
+.dark-mode .butybiuanketa {background: #fbfbfb;}
+.dark-mode .gimtadieniulentele {background: #fafbfc !important; border: #f5f5f5;box-shadow:none;}
+.dark-mode .siandiensiasavaite {background: #fbfbfb;}
+.dark-mode .supportingcharacterdesc {background: #fbfbfb;}
+.dark-mode .prisijunge_nariai {background-color: #fbfbfb;}
+.dark-mode .prisijunge_para {background-color: #fbfbfb;}
+.dark-mode .avaBox img{background:#fbfbfb;}
+.dark-mode #RA_NAVIGACIJA {background-color: #fbfbfb;}
+.dark-mode .poster-more-list {border: 1px solid #f1f2f3 !important;}
+.dark-mode .post-button {border-bottom: 0px solid #f1f2f3;}
+.dark-mode .postodata {  border-bottom: 0px solid #f1f2f3;}
+.dark-mode .poster::before { border: 0px solid #f1f2f3 !important;}
+.dark-mode .rangoPaveikslelis {    border: 2px solid #f5f5f5;}
+.dark-mode .postoAvataras img {border: 2px solid #f1f2f3;}
+.dark-mode .profilioInfoKlausimas {border-left: solid 4px #f5f5f5;}
+.dark-mode .profilioInfoAtsakymas {border-left: solid 4px #f5f5f5;}
+.dark-mode .profileInfo::-webkit-scrollbar {
+::-webkit-scrollbar-thumb background: #f1f2f3 !important;}
+.dark-mode .rangoTekstas {  border: 0px solid #f1f2f3;}
+.dark-mode .posticon2 {  border: 2px solid #f1f2f3;}
+.dark-mode .posticon2:hover{width:100px;  border: 2px solid #f1f2f3;}
+.dark-mode .avatar_navbar img {  border: 2px solid #f1f2f3;}
+.dark-mode .row1 img[title="New posts"] {  border: 2px solid #f1f2f3;}
