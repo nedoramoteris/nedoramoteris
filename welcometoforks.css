@@ -10,7 +10,7 @@ letter-spacing:3px;
 color: white;
   text-transform:uppercase;
   padding:4px;
-  font-family:'Lemon/Milk', sans-serif;}
+  font-family:'Lemon/Milk light', sans-serif;}
 
 .virsgifo {
   margin-top:8px;
@@ -22,7 +22,7 @@ text-align:left; font-size:12px; font-weight:bold; text-transform:uppercase; lin
   background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84, #BFA980, #A8B9BF, #A8B9BF, #A8B9BF);
   -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
-  font-family:'Lemon/Milk', sans-serif;
+  font-family:'Lemon/Milk light', sans-serif;
 }
 .virsgifo:hover {
   letter-spacing: 4px;}
