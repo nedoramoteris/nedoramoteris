@@ -1,0 +1,23 @@
+.dark-mode .welcomelentele {
+  background: white;
+}
+.dark-mode .welcomenuorodos {display:inline-block;
+margin-top:5px; margin-bottom:5px;}
+.dark-mode .welcomenuorodos a{
+  background: #f5f5f5;
+}
+.dark-mode .welcomenuorodos a:hover {
+  border: 2px solid #f5f5f5;
+}
+.dark-mode .welcomegifas {
+  border: 4px solid #f5f5f5;
+}
+.dark-mode .adminai {border: 4px solid #f5f5f5 !important;
+}
+
+.dark-mode .welcomelentele .gifoirtekstocell {
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.dark-mode .welcometoforks {
+background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84, #BFA980, #A8B9BF) !important;}
