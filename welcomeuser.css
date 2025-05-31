@@ -1,0 +1,147 @@
+.welcometoforks {margin:5px auto 0;
+width:1030px; height:25px; padding:10px 0; text-align:center;
+background:#74878B; /* MODIFIABLE */
+background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84, #BFA980, #A8B9BF);
+  border-radius:7px;
+  margin-bottom:5px;
+  margin-top:5px;
+font-size:15px;
+letter-spacing:3px;  
+color: white;
+  text-transform:uppercase;
+  padding:4px;
+  font-family:'Lemon/Milk light', sans-serif;}
+
+.virsgifo {
+  margin-top:8px;
+  margin-bottom:-10px;
+height:20px; padding:5px 7px; overflow:hidden;
+letter-spacing:1px;
+text-align:left; font-size:12px; font-weight:bold; text-transform:uppercase; line-height:20px;
+      transition: letter-spacing 0.6s ease; /* Smooth transition effect */
+  font-family:'Lemon/Milk light', sans-serif;
+}
+.virsgifo:hover {
+  letter-spacing: 4px;}
+
+.welcomegifas {
+  float: left;
+  width:160px; 
+    height:70px;
+  margin-top:-5px !important;
+  margin-right:15px !important;
+  margin-bottom:-1px;
+  border-radius:7px;
+  object-fit:cover;
+  border: 4px solid #33312e;
+  filter: grayscale(0%);
+  transition: filter 1s ease;
+}
+
+.welcomelentele {
+  border-collapse: collapse;
+  width: 1038px;
+   margin: 0 auto;
+  margin-top:-25px;
+  border-radius:7px;
+  background: #292725;
+}
+
+.grazustekstukas {
+  color:#6e6761;
+    margin-top:-5px !important;
+text-align:justify; font-size:11px; line-height:16px;
+    font-size:9px;
+  text-transform: uppercase;
+  letter-spacing:1px;
+vertical-align:middle;
+  font-weight: bold;
+  font-family: 'PT Sans Narrow';
+  text-align:justify;
+}
+
+.welcomelentele .cell {
+  padding: 0 5.4pt;
+  vertical-align: top;
+}
+
+.welcomelentele .gifoirtekstocell {
+  width:780px;
+  border-bottom: 1px solid #33312e;
+}
+
+.custom-table .adminucell {
+  width: 126.8pt;
+   border-bottom: 0px solid #33312e;
+}
+
+.custom-table .nuoroducell {
+  border-top: 1px solid #33312e;
+}
+
+.welcomegifas {
+  width: 160px;
+  height: 70px;
+  margin-top: -5px !important;
+  margin-right: 15px !important;
+  margin-bottom: -1px;
+  border-radius: 7px;
+  object-fit: cover;
+  border: 4px solid #33312e;
+  filter: grayscale(0%);
+  transition: filter 1s ease;
+}
+.welcomenuorodos {display:inline-block;
+margin-top:5px; margin-bottom:5px;}
+.welcomenuorodos a{line-height:28px;
+  font-size: 9px;
+  letter-spacing:1px;
+  text-transform: uppercase;
+  transition: background 0.6s ease;
+  padding: 5px;
+  background: #33312e;
+  border-radius: 7px;
+    font-family:'Lemon/Milk light', sans-serif !important;
+  transition: letter-spacing 0.6s ease;
+margin-right:5px;}
+
+.welcomenuorodos a:hover {
+  background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84);
+  -webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+  text-decoration: none !important;
+  letter-spacing:4px;
+  padding:4px;
+  border: 2px solid #33312e;
+}
+
+.inesosmygtukas {font-size:10px !important;
+      font-family:'Lemon/Milk light', sans-serif;
+  letter-spacing:1px;
+  text-align:right;
+  transition: letter-spacing 0.6s ease;
+margin-top:15px;}
+
+.inesosmygtukas:hover {
+  background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84);
+  -webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+  text-decoration: none !important;
+  letter-spacing:4px;
+  padding:4px;
+  border: 0px solid #33312e;
+}
+
+.adminai {border: 4px solid #33312e !important;
+  width: 55px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 7px;
+  display: block;
+float:left;
+margin-right:8px;
+margin-bottom:8px;
+  margin-top:8px;
+  filter:contrast(200%);
+filter: grayscale(100%);
+}
