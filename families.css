@@ -1,0 +1,67 @@
+.familycontainer {
+    max-width: 700px;
+    margin: 8px auto;
+    padding: 20px;
+}
+
+
+.familycategory {
+    margin-bottom: 8px;
+    padding: 15px;
+    border-left: 5px solid;
+    border-radius: 6px;
+    background:#292725;
+
+}
+
+.familycategory h2 {
+    margin-top: 0;
+  margin-bottom:-15px;
+    font-size: 1.5rem;
+    color: #fff;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    padding-bottom: 5px;
+    font-family: 'lemon/milk light', sans-serif;
+letter-spacing:1.5px;
+  font-size:13px;
+}
+
+.familycategory ul {
+    list-style-type: none;
+    padding-left: 0;
+  font-family: 'pt sans narrow';
+  letter-spacing:1px;
+  text-align: justify;
+  font-size:12px;
+}
+
+/* Unique border colors for categories */
+.romantic {
+    border-color: #934343;
+}
+romantic {color: #934343;}
+.family {
+    border-color: #4b6052;
+}
+family {color: #4b6052;}
+.friends {
+    border-color: #4b5960;
+}
+friends {color: #4b5960;
+}
+.colleagues {
+    border-color: #998365;
+}
+colleagues {color: #998365;}
+.departed {
+    border-color: #604b5f;
+}
+departed {color: #604b5f;
+}
+who {text-transform:uppercase;
+font-weight:bold;
+font-size:13px;
+font-family: 'lemon/milk light', sans-serif;
+letter-spacing:1px;}
+
+.dark-mode .familycategory {background:#f5f5f5;}
