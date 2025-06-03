@@ -1,0 +1,128 @@
+.reikmenumygtukas-container {
+   display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  background-color: #292725;
+  text-decoration: none;
+  border-radius: 7px;
+  width: 12px;
+  height: 14px;
+  position: fixed;
+  left: 96.55vw; /* 80% of the viewport width */
+  top: 25vh;  /* 30% of the viewport height */
+}
+.reikmenumygtukas-container:hover {color: #d4c8be; cursor: pointer; }
+.dark-mode .reikmenumygtukas-container {background-color: #f5f5f5;}
+.reikmenumygtukasicon {transform: scale(1.5);
+  vertical-align: middle;
+  overflow: hidden;
+  color: #6E6761 !important;}
+
+.reikmenulinks {
+  display: none;
+  flex-direction: column;
+  background-color: #292725;
+  border-radius: 6px;
+  padding: 6px;
+  margin-right:190px;
+  margin-top:74px;
+
+}
+
+.reikmenulinks a {
+  text-decoration: none;
+  font-family:'Lemon/Milk light', sans-serif;
+  font-size:11px;
+  letter-spacing:1px;
+  line-height:15px;
+    width:160px;
+  text-align:right;
+}
+
+.dark-mode .reikmenulinks {
+  background-color: #f5f5f5;
+}
+.reikmenulinks {
+  display: none; /* Hide by default */
+  flex-direction: column; /* or whatever layout you want */
+}
+
+.network {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  background-color: #292725;
+  text-decoration: none;
+  border-radius: 7px;
+  width: 12px;
+  height: 14px;
+  position: fixed;
+  left: 96.55vw; /* 80% of the viewport width */
+  top: 20vh;  /* 30% of the viewport height */
+}
+
+.dark-mode .network {background-color: #f5f5f5;}
+
+.network:hover {
+  color: #d4c8be;
+}
+.networkicon {
+  transform: scale(2);
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+
+.templatesbutton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  background-color: #292725;
+  text-decoration: none;
+  border-radius: 7px;
+  width: 12px;
+  height: 14px;
+  position: fixed;
+  left: 96.55vw; /* 80% of the viewport width */
+  top: 10vh;  /* 30% of the viewport height */
+}
+
+.dark-mode .templatesbutton {background-color: #f5f5f5;}
+
+.templatesbutton:hover {
+  color: #d4c8be;
+}
+.templatesicon {
+  transform: scale(1.5);
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.imagesbutton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  background-color: #292725;
+  text-decoration: none;
+  border-radius: 7px;
+  width: 12px;
+  height: 14px;
+  position: fixed;
+  left: 96.55vw; /* 80% of the viewport width */
+  top: 15vh;  /* 30% of the viewport height */
+}
+
+.dark-mode .imagesbutton {background-color: #f5f5f5;}
+
+.imagesbutton:hover {
+  color: #d4c8be;
+}
+.imagesicon {
+  transform: scale(1.4);
+  vertical-align: middle;
+  overflow: hidden;
+}
