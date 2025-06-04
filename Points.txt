@@ -408,7 +408,6 @@ Katrina Deva Bianchi	Rodrigo Abeyta	1	1
 Katrina Deva Bianchi	Daniel Apollo Dreschler	1	1
 Lennon Therasia Windsor	Leone Battista Dalmonte	4	4
 Leone Battista Dalmonte	Salvatore Edoardo Moretti	1	1
-West Elliot Harlow	Salvatore Edoardo Moretti	2	2
 Deianeira Cecilia Lund	Lennon Therasia Windsor	1	1
 Deianeira Cecilia Lund	Salvatore Edoardo Moretti	1	1
 Hera Melody Harlow	Salvatore Edoardo Moretti	1	1
@@ -434,3 +433,8 @@ Chiara Ilaria Lombardi	West Elliot Harlow	6	6
 Valeria Euphemia Greco	Sabrina Miranda Volturi	7	7
 Demetria Nadira Harlow	Sabrina Miranda Volturi	7	7
 Hera Melody Harlow	Sabrina Miranda Volturi	7	7
+
+
+Miss Catherine Eleanor Earnshaw Bianchi Harlow	Leopoldas	2	2
+
+
