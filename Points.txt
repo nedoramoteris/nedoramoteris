@@ -369,7 +369,7 @@ Lennon Therasia Windsor	The British Royal Family	2	2
 Lennon Therasia Windsor	Katrina Deva Bianchi	1	1
 Lennon Therasia Windsor	Arya Natalie Davenport	1	1
 Lennon Therasia Windsor	Salvatore Edoardo Moretti	5	5
-Lennon Therasia Windsor	Salvatore Edoardo Moretti	1	1
+Lennon Therasia Windsor	Salvatore Edoardo Moretti	6	6
 Lennon Therasia Windsor	Aurora Vivienne Boucher	5	5
 Bernadetta Ottavia Conti	Katrina Deva Bianchi	1	1
 Bernadetta Ottavia Conti	Valeria Euphemia Greco	1	1
