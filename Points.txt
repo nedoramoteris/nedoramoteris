@@ -1,7 +1,5 @@
-Alessandro Rossi	Bernadetta Ottavia Conti	1	1
 Alessandro Rossi	Coralie Francesca Romano	1	1
 Alessandro Rossi	Katrina Deva Bianchi	1	1
-Alessandro Rossi	Valeria Euphemia Greco	1	1
 Alastar Zander Lund	Atticus Orfeas Lund	2	2
 Alastar Zander Lund	Dante Konstantin Lund	2	2
 Alastar Zander Lund	Hera Melody Harlow	2	2
@@ -17,7 +15,7 @@ Anastasia Clara Blackwell	Aurora Vivienne Boucher	1	1
 Anastasia Clara Blackwell	Declan Aidan Bernhard	1	1
 Anastasia Clara Blackwell	Deianeira Cecilia Lund	1	1
 Anastasia Clara Blackwell	Katrina Deva Bianchi	1	1
-Anastasia Clara Blackwell	Leone Battista Dalmonte	5	5
+Anastasia Clara Blackwell	Leone Battista Dalmonte	0	0
 Anastasia Clara Blackwell	Lennon Therasia Windsor	1	1
 Anastasia Clara Blackwell	Salvatore Edoardo Moretti	1	1
 Anastasia Clara Blackwell	West Elliot Harlow	1	1
@@ -99,7 +97,7 @@ Charlotte Iris Dreschler	Nathaniel Dean Harlow	1	1
 Charlotte Iris Dreschler	Randall Frank Dreschler	2	2
 Charlotte Iris Dreschler	Veronique Helena Dreschler	1	1
 Chiara Ilaria Lombardi	Katrina Deva Bianchi	1	1
-Chiara Ilaria Lombardi	Salvatore Edoardo Moretti	5	5
+Chiara Ilaria Lombardi	Salvatore Edoardo Moretti	0	0
 Coralie Francesca Romano	Alessandro Rossi	1	1
 Coralie Francesca Romano	Katrina Deva Bianchi	1	1
 Damir Harlow	Daniel Apollo Dreschler	2	2
@@ -475,3 +473,4 @@ Theofania Maria Caras-Dragoumis	Atticus Orfeas Lund	2	2
 Theofania Maria Caras-Dragoumis	Dante Konstantin Lund	2	2
 Theofania Maria Caras-Dragoumis	Deianeira
 Venetia Irida Dragoumis	West Elliot Harlow	2	2
+Venetia Irida Dragoumis	Zachariah Gideon Lund	2	2
