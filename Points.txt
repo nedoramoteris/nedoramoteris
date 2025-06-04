@@ -288,7 +288,6 @@ Thomas Harlow	Daniel Apollo Dreschler	2	2
 Demetria Nadira Harlow	Eleni Karissa Aetós-Lund	1	1
 Demetria Nadira Harlow	Bianca Juliett Harlow	1	1
 Bianca Juliett Harlow	Carmen Iscariot Denali	1	1
-Arya Natalie Davenport	Daniel Apollo Dreschler	1	1
 Arya Natalie Davenport	Hera Melody Harlow	1	1
 Arya Natalie Davenport	West Elliot Harlow	1	1
 Katrina Deva Bianchi	Arya Natalie Davenport	1	1
