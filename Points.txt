@@ -220,7 +220,6 @@ West Elliot Harlow	Dante Konstantin Lund	2	2
 West Elliot Harlow	Zachariah Gideon Lund	2	2
 West Elliot Harlow	Demetria Nadira Harlow	2	2
 West Elliot Harlow	Michael Romeo Harlow	2	2
-West Elliot Harlow	Hera Melody Harlow	2	2
 West Elliot Harlow	Cassandra Willa Dreschler	1	1
 West Elliot Harlow	Nathaniel Dean Harlow	2	2
 West Elliot Harlow	Oliver Noah Harlow	2	2
@@ -288,9 +287,7 @@ Thomas Harlow	Daniel Apollo Dreschler	2	2
 Demetria Nadira Harlow	Eleni Karissa Aetós-Lund	1	1
 Demetria Nadira Harlow	Bianca Juliett Harlow	1	1
 Bianca Juliett Harlow	Carmen Iscariot Denali	1	1
-Arya Natalie Davenport	Hera Melody Harlow	1	1
 Arya Natalie Davenport	West Elliot Harlow	1	1
-Katrina Deva Bianchi	Arya Natalie Davenport	1	1
 Katrina Deva Bianchi	Matteo Rossi	0	0
 Katrina Deva Bianchi	Alessandra Maria Mancini-Bianchi	2	2
 Katrina Deva Bianchi	Niccolò Davide Bianchi	2	2
@@ -422,10 +419,8 @@ Declan Aidan Bernhard	West Elliot Harlow	1	1
 Declan Aidan Bernhard	Katrina Deva Bianchi	1	1
 Valeria Euphemia Greco	Katrina Deva Bianchi	1	1
 Harper Adriana Esposito	Katrina Deva Bianchi	1	1
-Hera Melody Harlow	West Elliot Harlow	2	2
 Katrina Deva Bianchi	West Elliot Harlow	3	3
 Katrina Deva Bianchi	Salvatore Edoardo Moretti	1	1
-Katrina Deva Bianchi	Hera Melody Harlow	1	1
 Katrina Deva Bianchi	Deianeira Cecilia Lund	1	1
 Katrina Deva Bianchi	Lennon Therasia Windsor	1	1
 Katrina Deva Bianchi	Leone Battista Dalmonte	1	1
