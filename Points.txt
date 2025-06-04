@@ -170,8 +170,6 @@ Demetri Lorenzo Volturi	Veronique Helena Dreschler	1	1
 Demetri Lorenzo Volturi	Nathaniel Dean Harlow	1	1
 Demetri Lorenzo Volturi	Felix Constantine Volturi	1	1
 Demetri Lorenzo Volturi	Bianca Juliett Harlow	0	0
-Ginevra Moíra Thánatos	Jonathan Fort Harlow	1	1
-Ginevra Moíra Thánatos	Myrtle Maeve Gray	1	1
 Veronique Helena Dreschler	Florence Elise Winslow	1	1
 Veronique Helena Dreschler	Camille Lillian Boucher	2	2
 Veronique Helena Dreschler	Demetria Nadira Harlow	1	1
@@ -372,7 +370,6 @@ Arya Natalie Davenport	Aurora Vivienne Boucher	1	1
 Arya Natalie Davenport	Katrina Deva Bianchi	1	1
 Arya Natalie Davenport	Leone Battista Dalmonte	1	1
 Arya Natalie Davenport	Salvatore Edoardo Moretti	1	1
-Arya Natalie Davenport	West Elliot Harlow	1	1
 Arya Natalie Davenport	Theodore Percival Hayes	1	1
 Arya Natalie Davenport	Felicity Gemma Montgomery	1	1
 Arya Natalie Davenport	Anastasia Clara Blackwell	1	1
@@ -399,7 +396,6 @@ Anastasia Clara Blackwell	Declan Aidan Bernhard	1	1
 Bernadetta Ottavia Conti	Katrina Deva Bianchi	1	1
 Bernadetta Ottavia Conti	Valeria Euphemia Greco	1	1
 Chiara Ilaria Lombardi	Katrina Deva Bianchi	1	1
-Daniel Apollo Dreschler	Hera Melody Harlow	1	1
 Daniel Apollo Dreschler	West Elliot Harlow	1	1
 Declan Aidan Bernhard	Deianeira Cecilia Lund	3	3
 Declan Aidan Bernhard	Leone Battista Dalmonte	1	1
