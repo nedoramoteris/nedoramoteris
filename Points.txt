@@ -466,3 +466,9 @@ Obsidianas	Fusillo	4	4
 Obsidianas	Pogo	1	1
 Leopoldas	Pogo	1	1
 Leopoldas	Fusillo	1	1
+Leopoldas	Katinas	1	1
+Leopoldas	Antanas	1	1
+Leopoldas	Juozas	1	1
+Leopoldas	Hubertas	1	1
+Leopoldas	Triušiai	1	1
+Leopoldas	Vištos	7	7
