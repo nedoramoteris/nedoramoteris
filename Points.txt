@@ -194,7 +194,6 @@ Jonathan Fort Harlow	Oliver Noah Harlow	2	2
 Jonathan Fort Harlow	Michael Romeo Harlow	2	2
 Jonathan Fort Harlow	Hera Melody Harlow	2	2
 Jonathan Fort Harlow	Nathaniel Dean Harlow	2	2
-Jonathan Fort Harlow	Ginevra Moíra Thánatos	1	1
 Felix Constantine Volturi	Florence Elise Winslow	1	1
 Felix Constantine Volturi	Demetri Lorenzo Volturi	1	1
 Felix Constantine Volturi	Veronique Helena Dreschler	1	1
@@ -206,7 +205,6 @@ Myrtle Maeve Gray	Oliver Noah Harlow	2	2
 Myrtle Maeve Gray	Michael Romeo Harlow	2	2
 Myrtle Maeve Gray	Hera Melody Harlow	2	2
 Myrtle Maeve Gray	Nathaniel Dean Harlow	2	2
-Myrtle Maeve Gray	Ginevra Moíra Thánatos	1	1
 West Elliot Harlow	Bianca Juliett Harlow	2	2
 West Elliot Harlow	Myrtle Maeve Gray	2	2
 West Elliot Harlow	Jonathan Fort Harlow	2	2
