@@ -10,6 +10,7 @@ Demetria Nadira Harlow	Hera Melody Harlow	2	2
 Demetria Nadira Harlow	West Elliot Harlow	2	2
 Demetria Nadira Harlow	Florence Elise Winslow	1	1
 Demetria Nadira Harlow	Emery Herman Bernhard	1	1
+Demetria Nadira Harlow	Camille Lillian Boucher	6	6
 Demetria Nadira Harlow	Camille Lillian Boucher	1	1
 Demetria Nadira Harlow	Veronique Helena Dreschler	1	1
 Demetria Nadira Harlow	Atticus Orfeas Lund	2	2
@@ -298,9 +299,9 @@ Niccolò Davide Bianchi	Alessandra Maria Mancini-Bianchi	3	3
 Katrina Deva Bianchi	Aurora Vivienne Boucher	1	1
 Katrina Deva Bianchi	Declan Aidan Bernhard	1	1
 Katrina Deva Bianchi	Hera Melody Harlow	1	1
-Aurora Vivienne Boucher	Hera Melody Harlow	1	1
 Aurora Vivienne Boucher	Jeremiah Rhys Sinclair	0	0
 Arya Natalie Davenport	Aurora Vivienne Boucher	1	1
+Arya Natalie Davenport	Aurora Vivienne Boucher	6	6
 Arya Natalie Davenport	Katrina Deva Bianchi	1	1
 Arya Natalie Davenport	Declan Aidan Bernhard	1	1
 Aurora Vivienne Boucher	Declan Aidan Bernhard	1	1
