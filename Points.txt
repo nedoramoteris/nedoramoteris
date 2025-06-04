@@ -11,13 +11,11 @@ Demetria Nadira Harlow	West Elliot Harlow	2	2
 Demetria Nadira Harlow	Florence Elise Winslow	1	1
 Demetria Nadira Harlow	Emery Herman Bernhard	1	1
 Demetria Nadira Harlow	Camille Lillian Boucher	6	6
-Demetria Nadira Harlow	Camille Lillian Boucher	1	1
 Demetria Nadira Harlow	Veronique Helena Dreschler	1	1
 Demetria Nadira Harlow	Atticus Orfeas Lund	2	2
 Demetria Nadira Harlow	Alastar Zander Lund	2	2
 Deianeira Cecilia Lund	Joshua William Lund	2	2
 Deianeira Cecilia Lund	Demetria Nadira Harlow	2	2
-Deianeira Cecilia Lund	Zachariah Gideon Lund	2	2
 Deianeira Cecilia Lund	Dante Konstantin Lund	2	2
 Deianeira Cecilia Lund	Isadora Vanessa Dragoumis-Lund	2	2
 Deianeira Cecilia Lund	Reinhardt Gustav Lund	2	2
@@ -235,7 +233,6 @@ Bianca Juliett Harlow	Samir Bakir	3	3
 Atticus Orfeas Lund	Alastar Zander Lund	2	2
 Alastar Zander Lund	Atticus Orfeas Lund	2	2
 Aurora Vivienne Boucher	Camille Lillian Boucher	2	2
-Aurora Vivienne Boucher	Daniel Apollo Dreschler	2	2
 Aurora Vivienne Boucher	Veronique Helena Dreschler	2	2
 Aurora Vivienne Boucher	Hazel Adeline Boucher	2	2
 Daniel Apollo Dreschler	Hazel Adeline Boucher	2	2
@@ -301,8 +298,6 @@ Arya Natalie Davenport	Aurora Vivienne Boucher	6	6
 Arya Natalie Davenport	Katrina Deva Bianchi	1	1
 Arya Natalie Davenport	Declan Aidan Bernhard	1	1
 Aurora Vivienne Boucher	Declan Aidan Bernhard	1	1
-Declan Aidan Bernhard	Deianeira Cecilia Lund	3	3
-Aurora Vivienne Boucher	West Elliot Harlow	1	1
 West Elliot Harlow	Alastar Zander Lund	2	2
 West Elliot Harlow	Atticus Orfeas Lund	2	2
 Hera Melody Harlow	Alastar Zander Lund	2	2
@@ -362,7 +357,6 @@ Lennon Therasia Windsor	The British Royal Family	2	2
 Lennon Therasia Windsor	Katrina Deva Bianchi	1	1
 Lennon Therasia Windsor	Arya Natalie Davenport	1	1
 Lennon Therasia Windsor	Salvatore Edoardo Moretti	5	5
-Lennon Therasia Windsor	Salvatore Edoardo Moretti	6	6
 Lennon Therasia Windsor	Aurora Vivienne Boucher	5	5
 Valeria Euphemia Greco	West Elliot Harlow	1	1
 Valeria Euphemia Greco	Harrison James Whitmore	3	3
@@ -426,7 +420,6 @@ Katrina Deva Bianchi	Lennon Therasia Windsor	1	1
 Katrina Deva Bianchi	Leone Battista Dalmonte	1	1
 Katrina Deva Bianchi	Rodrigo Abeyta	1	1
 Katrina Deva Bianchi	Daniel Apollo Dreschler	1	1
-Hera Melody Harlow	Deianeira Cecilia Lund	2	2
 Lennon Therasia Windsor	Leone Battista Dalmonte	4	4
 Leone Battista Dalmonte	Salvatore Edoardo Moretti	1	1
 West Elliot Harlow	Salvatore Edoardo Moretti	2	2
