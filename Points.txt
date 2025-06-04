@@ -294,6 +294,7 @@ Katrina Deva Bianchi	Arya Natalie Davenport	1	1
 Katrina Deva Bianchi	Matteo Rossi	0	0
 Katrina Deva Bianchi	Alessandra Maria Mancini-Bianchi	2	2
 Katrina Deva Bianchi	Niccolò Davide Bianchi	2	2
+Niccolò Davide Bianchi	Alessandra Maria Mancini-Bianchi	3	3
 Katrina Deva Bianchi	Aurora Vivienne Boucher	1	1
 Katrina Deva Bianchi	Declan Aidan Bernhard	1	1
 Katrina Deva Bianchi	Hera Melody Harlow	1	1
