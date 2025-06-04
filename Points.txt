@@ -166,8 +166,7 @@ Nathaniel Dean Harlow	Jonathan Fort Harlow	2	2
 Nathaniel Dean Harlow	Myrtle Maeve Gray	2	2
 Nathaniel Dean Harlow	West Elliot Harlow	2	2
 Nathaniel Dean Harlow	Bianca Juliett Harlow	2	2
-Nathaniel Dean Harlow	Oliver Noah Harlow	2	2
-			
+Nathaniel Dean Harlow	Oliver Noah Harlow	2	2			
 Demetri Lorenzo Volturi	Charlotte Iris Dreschler	1	1
 Demetri Lorenzo Volturi	Veronique Helena Dreschler	1	1
 Demetri Lorenzo Volturi	Nathaniel Dean Harlow	1	1
@@ -245,7 +244,7 @@ Isadora Vanessa Dragoumis-Lund	West Elliot Harlow	2	2
 Isadora Vanessa Dragoumis-Lund	Alastar Zander Lund	2	2
 Isadora Vanessa Dragoumis-Lund	Atticus Orfeas Lund	2	2
 Isadora Vanessa Dragoumis-Lund	Theofania Maria Caras-Dragoumis	2	2
-Reinhardt Gustav Lund	Isadora Vanessa Dragoumis-Lund	2	2
+Reinhardt Gustav Lund	Isadora Vanessa Dragoumis-Lund	3	3
 Reinhardt Gustav Lund	Hera Melody Harlow	2	2
 Reinhardt Gustav Lund	West Elliot Harlow	2	2
 Reinhardt Gustav Lund	Alastar Zander Lund	2	2
