@@ -93,7 +93,7 @@ Florence Elise Winslow	Joshua William Lund	1	1
 Florence Elise Winslow	Alexis Feiyu King	1	1
 Florence Elise Winslow	Felix Constantine Volturi	1	1
 Carmen Iscariot Denali	Randall Frank Dreschler	1	1
-			
+Carmen Iscariot Denali	Demetri Lorenzo Volturi	0	0
 Declan Aidan Bernhard	Emery Herman Bernhard	2	2
 Emery Herman Bernhard	Declan Aidan Bernhard	2	2
 Emery Herman Bernhard	Florence Elise Winslow	1	1
@@ -171,7 +171,7 @@ Demetri Lorenzo Volturi	Charlotte Iris Dreschler	1	1
 Demetri Lorenzo Volturi	Veronique Helena Dreschler	1	1
 Demetri Lorenzo Volturi	Nathaniel Dean Harlow	1	1
 Demetri Lorenzo Volturi	Felix Constantine Volturi	1	1
-Demetri Lorenzo Volturi	Bianca Juliett Harlow	1	1
+Demetri Lorenzo Volturi	Bianca Juliett Harlow	0	0
 Ginevra Moíra Thánatos	Jonathan Fort Harlow	1	1
 Ginevra Moíra Thánatos	Myrtle Maeve Gray	1	1
 Veronique Helena Dreschler	Florence Elise Winslow	1	1
@@ -263,7 +263,6 @@ Matthew Harlow	Bianca Juliett Harlow	2	2
 Matthew Harlow	Hera Melody Harlow	2	2
 Matthew Harlow	West Elliot Harlow	2	2
 Matthew Harlow	Joshua William Lund	1	1
-Matthew Harlow	Zosė	1	1
 Damir Harlow	Thomas Harlow	2	2
 Damir Harlow	Damir Harlow	2	2
 Damir Harlow	Jonathan Fort Harlow	2	2
@@ -274,7 +273,6 @@ Damir Harlow	Bianca Juliett Harlow	2	2
 Damir Harlow	Hera Melody Harlow	2	2
 Damir Harlow	West Elliot Harlow	2	2
 Damir Harlow	Matthew Harlow	2	2
-Damir Harlow	Zosė	1	1
 Damir Harlow	Aurora Vivienne Boucher	2	2
 Damir Harlow	Daniel Apollo Dreschler	2	2
 Damir Harlow	Camille Lillian Boucher	2	2
@@ -282,7 +280,6 @@ Damir Harlow	Veronique Helena Dreschler	2	2
 Thomas Harlow	Matthew Harlow	3	3
 Thomas Harlow	Damir Harlow	2	2
 Thomas Harlow	Joshua William Lund	1	1
-Thomas Harlow	Zosė	1	1
 Thomas Harlow	Camille Lillian Boucher	2	2
 Thomas Harlow	Veronique Helena Dreschler	2	2
 Thomas Harlow	Aurora Vivienne Boucher	2	2
