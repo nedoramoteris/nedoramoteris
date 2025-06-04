@@ -436,6 +436,11 @@ Hera Melody Harlow	Sabrina Miranda Volturi	7	7
 
 
 Miss Catherine Eleanor Earnshaw Bianchi Harlow	Leopoldas	2	2
+Natanielis Jaunesnysis	Katinas	0	0
+Natanielis Jaunesnysis	Antanas	0	0
+Natanielis Jaunesnysis	Juozas	0	0
+Natanielis Jaunesnysis	Hubertas	0	0
+Natanielis Jaunesnysis	Paslaptingoji NJ panelė iš kitapus tvoros	3	3
 Antanas	Katinas	2	2
 Antanas	Hubertas	2	2
 Antanas	Juozas	2	2
@@ -453,3 +458,9 @@ Antanas	Triušiai	1	1
 Katinas	Triušiai	1	1
 Juozas	Triušiai	1	1
 Hubertas	Triušiai	1	1
+Vištos	Triušiai	4	4
+Pupa	Eden	2	2
+Konstantinas	Liusilė	2	2
+Obsidianas	Leopoldas	4	4
+Obsidianas	Fusillo	4	4
+Obsidianas	Pogo	1	1
