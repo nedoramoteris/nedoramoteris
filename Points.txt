@@ -464,3 +464,5 @@ Konstantinas	Liusilė	2	2
 Obsidianas	Leopoldas	4	4
 Obsidianas	Fusillo	4	4
 Obsidianas	Pogo	1	1
+Leopoldas	Pogo	1	1
+Leopoldas	Fusillo	1	1
