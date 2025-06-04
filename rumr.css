@@ -111,3 +111,7 @@ body {background:#21211F;}
   margin-right: 12px;
 }
 
+.dark-mode .rumr-post {background: #f5f5f5; color: #6E6761;}
+.dark-mode .rumr-comment {background: #f5f5f5; color: #6E6761;}
+.rumr-comment {width:520px !important;}
+.reikmenumygtukasicon:hover {color: #d4c8be !important;}
