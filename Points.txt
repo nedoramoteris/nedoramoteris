@@ -496,3 +496,8 @@ Eden	Juozas	1	1
 Eden	Hubertas	1	1
 Jazminas / Žakas	Juozas	4	4
 Jazminas / Žakas	Rozmarinas	1	1
+Wolfgang	Katinas	1	1
+Wolfgang	Antanas	1	1
+Wolfgang	Juozas	1	1
+Wolfgang	Hubertas	1	1
+Wolfgang	Eden	1	1
