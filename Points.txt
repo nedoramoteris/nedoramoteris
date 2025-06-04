@@ -193,7 +193,7 @@ Alexis Feiyu King	Veronique Helena Dreschler	1	1
 Alexis Feiyu King	Florence Elise Winslow	1	1
 Jonathan Fort Harlow	Bianca Juliett Harlow	2	2
 Jonathan Fort Harlow	West Elliot Harlow	2	2
-Jonathan Fort Harlow	Myrtle Maeve Gray	2	2
+Jonathan Fort Harlow	Myrtle Maeve Gray	0	0
 Jonathan Fort Harlow	Oliver Noah Harlow	2	2
 Jonathan Fort Harlow	Michael Romeo Harlow	2	2
 Jonathan Fort Harlow	Hera Melody Harlow	2	2
