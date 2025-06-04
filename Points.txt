@@ -429,5 +429,7 @@ Sabrina Miranda Volturi	West Elliot Harlow	0	0
 Katrina Deva Bianchi	Sabrina Miranda Volturi	7	7
 Sabrina Miranda Volturi	Salvatore Edoardo Moretti	6	6
 Sabrina Miranda Volturi	Arya Natalie Davenport	7	7
+Sabrina Miranda Volturi	Hera Melody Harlow	7	7
+Sabrina Miranda Volturi	Demetria Nadira Harlow	7	7
 Aurora Vivienne Boucher	Sabrina Miranda Volturi	7	7
 Chiara Ilaria Lombardi	West Elliot Harlow	6	6
