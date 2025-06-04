@@ -211,7 +211,6 @@ Myrtle Maeve Gray	Michael Romeo Harlow	2	2
 Myrtle Maeve Gray	Hera Melody Harlow	2	2
 Myrtle Maeve Gray	Nathaniel Dean Harlow	2	2
 Myrtle Maeve Gray	Ginevra Moíra Thánatos	1	1
-Myrtle Maeve Gray	Jonathan Fort Harlow	2	2
 West Elliot Harlow	Bianca Juliett Harlow	2	2
 West Elliot Harlow	Myrtle Maeve Gray	2	2
 West Elliot Harlow	Jonathan Fort Harlow	2	2
