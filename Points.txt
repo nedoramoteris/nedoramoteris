@@ -138,7 +138,6 @@ Hera Melody Harlow	Myrtle Maeve Gray	2	2
 Hera Melody Harlow	West Elliot Harlow	2	2
 Hera Melody Harlow	Bianca Juliett Harlow	2	2
 Daniel Apollo Dreschler	Camille Lillian Boucher	2	2
-Daniel Apollo Dreschler	Hera Melody Harlow	1	1
 Daniel Apollo Dreschler	Cassandra Willa Dreschler	1	1
 Daniel Apollo Dreschler	Randall Frank Dreschler	2	2
 Daniel Apollo Dreschler	Veronique Helena Dreschler	2	2
