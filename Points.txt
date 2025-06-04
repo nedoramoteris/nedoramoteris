@@ -442,4 +442,7 @@ Antanas	Juozas	2	2
 Juozas	Katinas	2	2
 Juozas	Hubertas	2	2
 Katinas	Hubertas	2	2
+Miso	Chilli	2	2
+Miso	Profiterol	2	2
+Chilli	Profiterol	2	2
 
