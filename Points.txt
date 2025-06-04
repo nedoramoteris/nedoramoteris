@@ -41,7 +41,7 @@ Joshua William Lund	Deianeira Cecilia Lund	2	2
 Joshua William Lund	Florence Elise Winslow	1	1
 Joshua William Lund	Veronique Helena Dreschler	1	1
 Joshua William Lund	Veronique Helena Dreschler	6	6
-Demetri Lorenzo Volturi	Veronique Helena Dreschler	0	0
+
 Zachariah Gideon Lund	Deianeira Cecilia Lund	2	2
 Zachariah Gideon Lund	Joshua William Lund	2	2
 Zachariah Gideon Lund	Demetria Nadira Harlow	2	2
@@ -164,10 +164,12 @@ Nathaniel Dean Harlow	Bianca Juliett Harlow	2	2
 Nathaniel Dean Harlow	Oliver Noah Harlow	2	2			
 Demetri Lorenzo Volturi	Charlotte Iris Dreschler	1	1
 Demetri Lorenzo Volturi	Veronique Helena Dreschler	1	1
+Demetri Lorenzo Volturi	Veronique Helena Dreschler	0	0
 Demetri Lorenzo Volturi	Nathaniel Dean Harlow	1	1
 Demetri Lorenzo Volturi	Felix Constantine Volturi	1	1
 Demetri Lorenzo Volturi	Bianca Juliett Harlow	0	0
 Veronique Helena Dreschler	Michael Romeo Harlow	1	1
+Veronique Helena Dreschler	Michael Romeo Harlow	6	6
 Veronique Helena Dreschler	Alexis Feiyu King	1	1
 Veronique Helena Dreschler	Felix Constantine Volturi	1	1
 Alexis Feiyu King	Felix Constantine Volturi	3	3
@@ -406,7 +408,6 @@ Alessandro Rossi	Katrina Deva Bianchi	1	1
 Alessandro Rossi	Valeria Euphemia Greco	1	1
 Coralie Francesca Romano	Katrina Deva Bianchi	1	1
 Coralie Francesca Romano	Alessandro Rossi	1	1
-Michael Romeo Harlow	Veronique Helena Dreschler	6	6
 Hera Melody Harlow	Daniel Apollo Dreschler	6	6
 Carmen Iscariot Denali	Nathaniel Dean Harlow	6	6
 Sabrina Miranda Volturi	West Elliot Harlow	0	0
