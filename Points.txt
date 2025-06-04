@@ -432,3 +432,6 @@ Alessandro Rossi	Katrina Deva Bianchi	1	1
 Alessandro Rossi	Valeria Euphemia Greco	1	1
 Coralie Francesca Romano	Katrina Deva Bianchi	1	1
 Coralie Francesca Romano	Alessandro Rossi	1	1
+Michael Romeo Harlow	Veronique Helena Dreschler	6	6
+Hera Melody Harlow	Daniel Apollo Dreschler	6	6
+Carmen Iscariot Denali	Nathaniel Dean Harlow	6	6
