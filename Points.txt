@@ -382,7 +382,6 @@ Aurora Vivienne Boucher	Anastasia Clara Blackwell	1	1
 Aurora Vivienne Boucher	Hera Melody Harlow	1	1
 Aurora Vivienne Boucher	Deianeira Cecilia Lund	1	1
 Aurora Vivienne Boucher	Daniel Apollo Dreschler	2	2
-Aurora Vivienne Boucher	Declan Aidan Bernhard	1	1
 Anastasia Clara Blackwell	Lennon Therasia Windsor	1	1
 Anastasia Clara Blackwell	Katrina Deva Bianchi	1	1
 Anastasia Clara Blackwell	Salvatore Edoardo Moretti	1	1
@@ -430,4 +429,4 @@ Sabrina Miranda Volturi	West Elliot Harlow	0	0
 Katrina Deva Bianchi	Sabrina Miranda Volturi	7	7
 Sabrina Miranda Volturi	Salvatore Edoardo Moretti	6	6
 Sabrina Miranda Volturi	Arya Natalie Davenport	7	7
-Auroria Vivian Boucher	Sabrina Miranda Volturi	7	7
+Aurora Vivienne Boucher	Sabrina Miranda Volturi	7	7
