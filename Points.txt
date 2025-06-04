@@ -86,7 +86,6 @@ Florence Elise Winslow	Zachariah Gideon Lund	1	1
 Florence Elise Winslow	Demetria Nadira Harlow	1	1
 Florence Elise Winslow	Emery Herman Bernhard	1	1
 Florence Elise Winslow	Michael Romeo Harlow	1	1
-			
 Florence Elise Winslow	Nathaniel Dean Harlow	1	1
 Florence Elise Winslow	Veronique Helena Dreschler	1	1
 Florence Elise Winslow	Joshua William Lund	1	1
@@ -94,6 +93,8 @@ Florence Elise Winslow	Alexis Feiyu King	1	1
 Florence Elise Winslow	Felix Constantine Volturi	1	1
 Carmen Iscariot Denali	Randall Frank Dreschler	1	1
 Carmen Iscariot Denali	Demetri Lorenzo Volturi	0	0
+Carmen Iscariot Denali	Nathaniel Dean Harlow	4	4
+Carmen Iscariot Denali	Demetria Nadira Harlow	4	4
 Declan Aidan Bernhard	Emery Herman Bernhard	2	2
 Emery Herman Bernhard	Declan Aidan Bernhard	2	2
 Emery Herman Bernhard	Florence Elise Winslow	1	1
@@ -362,9 +363,8 @@ Anastasia Clara Blackwell	Aurora Vivienne Boucher	1	1
 Lennon Therasia Windsor	West Elliot Harlow	4	4
 Lennon Therasia Windsor	Katrina Deva Bianchi	1	1
 Lennon Therasia Windsor	Arya Natalie Davenport	1	1
-Lennon Therasia Windsor	Leone Battista Dalmonte	1	1
-Lennon Therasia Windsor	Salvatore Edoardo Moretti	1	1
-Lennon Therasia Windsor	Aurora Vivienne Boucher	1	1
+Lennon Therasia Windsor	Salvatore Edoardo Moretti	5	5
+Lennon Therasia Windsor	Aurora Vivienne Boucher	5	5
 Bernadetta Ottavia Conti	Katrina Deva Bianchi	1	1
 Bernadetta Ottavia Conti	Valeria Euphemia Greco	1	1
 Valeria Euphemia Greco	West Elliot Harlow	1	1
@@ -401,7 +401,6 @@ Aurora Vivienne Boucher	Leone Battista Dalmonte	1	1
 Aurora Vivienne Boucher	Salvatore Edoardo Moretti	1	1
 Aurora Vivienne Boucher	West Elliot Harlow	1	1
 Aurora Vivienne Boucher	Anastasia Clara Blackwell	1	1
-Aurora Vivienne Boucher	Lennon Therasia Windsor	1	1
 Aurora Vivienne Boucher	Hera Melody Harlow	1	1
 Aurora Vivienne Boucher	Deianeira Cecilia Lund	1	1
 Aurora Vivienne Boucher	Daniel Apollo Dreschler	2	2
@@ -437,8 +436,7 @@ Katrina Deva Bianchi	Leone Battista Dalmonte	1	1
 Katrina Deva Bianchi	Rodrigo Abeyta	1	1
 Katrina Deva Bianchi	Daniel Apollo Dreschler	1	1
 Hera Melody Harlow	Deianeira Cecilia Lund	2	2
-Lennon Therasia Windsor	Leone Battista Dalmonte	1	1
-Lennon Therasia Windsor	Salvatore Edoardo Moretti	1	1
+Lennon Therasia Windsor	Leone Battista Dalmonte	4	4
 Leone Battista Dalmonte	West Elliot Harlow	1	1
 Leone Battista Dalmonte	Salvatore Edoardo Moretti	1	1
 Leone Battista Dalmonte	Deianeira Cecilia Lund	1	1
