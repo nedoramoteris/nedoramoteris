@@ -292,7 +292,6 @@ Katrina Deva Bianchi	Aurora Vivienne Boucher	1	1
 Katrina Deva Bianchi	Declan Aidan Bernhard	1	1
 Katrina Deva Bianchi	Hera Melody Harlow	1	1
 Aurora Vivienne Boucher	Jeremiah Rhys Sinclair	0	0
-Arya Natalie Davenport	Aurora Vivienne Boucher	1	1
 Arya Natalie Davenport	Aurora Vivienne Boucher	6	6
 Aurora Vivienne Boucher	Declan Aidan Bernhard	1	1
 West Elliot Harlow	Alastar Zander Lund	2	2
