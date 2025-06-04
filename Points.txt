@@ -494,5 +494,5 @@ Eden	Katinas	1	1
 Eden	Antanas	1	1
 Eden	Juozas	1	1
 Eden	Hubertas	1	1
-Jazminas	Juozas	4	4
-Jazminas	Rozmarinas	1	1
+Jazminas / Žakas	Juozas	4	4
+Jazminas / Žakas	Rozmarinas	1	1
