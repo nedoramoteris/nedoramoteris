@@ -95,7 +95,6 @@ Carmen Iscariot Denali	Demetri Lorenzo Volturi	0	0
 Carmen Iscariot Denali	Nathaniel Dean Harlow	4	4
 Carmen Iscariot Denali	Demetria Nadira Harlow	4	4
 Declan Aidan Bernhard	Emery Herman Bernhard	2	2
-Emery Herman Bernhard	Declan Aidan Bernhard	2	2
 Emery Herman Bernhard	Florence Elise Winslow	1	1
 Emery Herman Bernhard	Juliette Claire Lefèvre	1	1
 Emery Herman Bernhard	Camille Lillian Boucher	1	1
@@ -288,7 +287,6 @@ Katrina Deva Bianchi	Declan Aidan Bernhard	1	1
 Katrina Deva Bianchi	Hera Melody Harlow	1	1
 Aurora Vivienne Boucher	Jeremiah Rhys Sinclair	0	0
 Arya Natalie Davenport	Aurora Vivienne Boucher	6	6
-Aurora Vivienne Boucher	Declan Aidan Bernhard	1	1
 West Elliot Harlow	Alastar Zander Lund	2	2
 West Elliot Harlow	Atticus Orfeas Lund	2	2
 Hera Melody Harlow	Alastar Zander Lund	2	2
@@ -429,6 +427,7 @@ Michael Romeo Harlow	Veronique Helena Dreschler	6	6
 Hera Melody Harlow	Daniel Apollo Dreschler	6	6
 Carmen Iscariot Denali	Nathaniel Dean Harlow	6	6
 Sabrina Miranda Volturi	West Elliot Harlow	0	0
-Sabrina Miranda	Salvatore Edoardo Moretti	0	0
-Sabrina Miranda	Katrina Deva Bianchi	0	0
-Sabrina Miranda	Arya Natalie Davenport	0	0
+Katrina Deva Bianchi	Sabrina Miranda Volturi	7	7
+Sabrina Miranda Volturi	Salvatore Edoardo Moretti	6	6
+Sabrina Miranda Volturi	Arya Natalie Davenport	7	7
+Auroria Vivian Boucher	Sabrina Miranda Volturi	7	7
