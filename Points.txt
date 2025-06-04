@@ -6,8 +6,8 @@ Demetria Nadira Harlow	Isadora Vanessa Dragoumis-Lund	2	2
 Demetria Nadira Harlow	Reinhardt Gustav Lund	2	2
 Demetria Nadira Harlow	Theofania Maria Caras-Dragoumis	2	2
 Demetria Nadira Harlow	Nathaniel Dean Harlow	3	3
-Demetria Nadira Harlow	Hera Melody Harlow	7	7
-Demetria Nadira Harlow	West Elliot Harlow	7	7
+Demetria Nadira Harlow	Hera Melody Harlow	2	2
+Demetria Nadira Harlow	West Elliot Harlow	2	2
 Demetria Nadira Harlow	Florence Elise Winslow	1	1
 Demetria Nadira Harlow	Emery Herman Bernhard	1	1
 Demetria Nadira Harlow	Camille Lillian Boucher	1	1
@@ -40,8 +40,6 @@ Joshua William Lund	West Elliot Harlow	2	2
 Joshua William Lund	Deianeira Cecilia Lund	2	2
 Joshua William Lund	Florence Elise Winslow	1	1
 Joshua William Lund	Veronique Helena Dreschler	1	1
-		3	3
-			
 Zachariah Gideon Lund	Deianeira Cecilia Lund	2	2
 Zachariah Gideon Lund	Joshua William Lund	2	2
 Zachariah Gideon Lund	Demetria Nadira Harlow	2	2
@@ -112,7 +110,6 @@ Hazel Adeline Boucher	Camille Lillian Boucher	2	2
 Hazel Adeline Boucher	Florence Elise Winslow	1	1
 Søren Ragnar Lindström	Hera Melody Harlow	1	1
 Søren Ragnar Lindström	Cassandra Willa Dreschler	1	1
-		2	2
 Michael Romeo Harlow	Florence Elise Winslow	1	1
 Michael Romeo Harlow	Deianeira Cecilia Lund	1	1
 Michael Romeo Harlow	Demetria Nadira Harlow	1	1
@@ -152,7 +149,6 @@ Cassandra Willa Dreschler	Randall Frank Dreschler	2	2
 Cassandra Willa Dreschler	Veronique Helena Dreschler	2	2
 Randall Frank Dreschler	Camille Lillian Boucher	1	1
 Randall Frank Dreschler	Carmen Iscariot Denali	1	1
-			
 Randall Frank Dreschler	Charlotte Iris Dreschler	2	2
 Randall Frank Dreschler	Daniel Apollo Dreschler	2	2
 Randall Frank Dreschler	Cassandra Willa Dreschler	2	2
@@ -202,14 +198,11 @@ Jonathan Fort Harlow	Michael Romeo Harlow	2	2
 Jonathan Fort Harlow	Hera Melody Harlow	2	2
 Jonathan Fort Harlow	Nathaniel Dean Harlow	2	2
 Jonathan Fort Harlow	Ginevra Moíra Thánatos	1	1
-		2	2
-		3	3
 Felix Constantine Volturi	Florence Elise Winslow	1	1
 Felix Constantine Volturi	Demetri Lorenzo Volturi	1	1
 Felix Constantine Volturi	Veronique Helena Dreschler	1	1
 Felix Constantine Volturi	Alexis Feiyu King	3	3
 Felix Constantine Volturi	Charlotte Iris Dreschler	1	1
-			
 Myrtle Maeve Gray	West Elliot Harlow	2	2
 Myrtle Maeve Gray	Bianca Juliett Harlow	2	2
 Myrtle Maeve Gray	Oliver Noah Harlow	2	2
@@ -453,7 +446,6 @@ Leone Battista Dalmonte	West Elliot Harlow	1	1
 Leone Battista Dalmonte	Salvatore Edoardo Moretti	1	1
 Leone Battista Dalmonte	Deianeira Cecilia Lund	1	1
 West Elliot Harlow	Salvatore Edoardo Moretti	2	2
-West Elliot Harlow	Deianeira Cecilia Lund	1	1
 Deianeira Cecilia Lund	Lennon Therasia Windsor	1	1
 Deianeira Cecilia Lund	Salvatore Edoardo Moretti	1	1
 Hera Melody Harlow	Salvatore Edoardo Moretti	1	1
