@@ -1,3 +1,5 @@
+REIKMENŲ MYGTUKO top:30vh VISADA KEIČIASI. DEDANT NAUJĄ MYGTUKĄ, JAM PRITAIKOM REIKMENŲ MYGTUKO VH, O REIKMENŲ MYGTUKO VH PRIDEDAM +5.
+
 .reikmenumygtukas-container {
    display: flex;
   align-items: center;
@@ -10,7 +12,7 @@
   height: 14px;
   position: fixed;
   left: 96.55vw; /* 80% of the viewport width */
-  top: 25vh;  /* 30% of the viewport height */
+  top: 30vh;  /* 30% of the viewport height */
 }
 .reikmenumygtukas-container:hover {color: #d4c8be; cursor: pointer; }
 .dark-mode .reikmenumygtukas-container {background-color: #f5f5f5;}
@@ -63,6 +65,21 @@
   top: 20vh;  /* 30% of the viewport height */
 }
 
+.tvarkymas {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  background-color: #292725;
+  text-decoration: none;
+  border-radius: 7px;
+  width: 12px;
+  height: 14px;
+  position: fixed;
+  left: 96.55vw; /* 80% of the viewport width */
+  top: 25vh;  /* 30% of the viewport height */
+}
+
 .dark-mode .network {background-color: #f5f5f5;}
 
 .network:hover {
@@ -90,7 +107,7 @@
   top: 10vh;  /* 30% of the viewport height */
 }
 
-.dark-mode .templatesbutton {background-color: #f5f5f5;}
+.dark-mode .templatesbutton, .dark-mode .tvarkymas {background-color: #f5f5f5;}
 
 .templatesbutton:hover {
   color: #d4c8be;
