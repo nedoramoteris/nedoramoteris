@@ -1,4 +1,43 @@
-.dark-mode .tleCAT { {background:#f5f5f5 !important;}
+.dark-mode .af_suj2 img, .dark-mode .suj_stat, .dark-mode .pagination a, .dark-mode .pagination span, .dark-mode .pagination b {background: #f8f8f8 !important;}
+.dark-mode .af_suj2 img {background: #f8f8f8 !important;}
+.dark-mode .pro_nouvrep a:nth-child(1) {background: none !important;}
+
+.dark-mode .rumr-post {background: #f5f5f5; color: #6E6761;}
+.dark-mode .rumr-comment {background: #f5f5f5; color: #6E6761;}
+
+.dark-mode .scroll-up, .dark-mode .scroll-down, .dark-mode .dark-mode-toggle, .dark-mode a#FAM-button {background: #f5f5f5 !important;}
+
+.dark-mode .pfimg {background: #f5f5f5; border:none !important;}
+
+.dark-mode .hashtags a {background: #e0dcdc;}
+
+.dark-mode .naujaspostastemose {background:#f5f5f5 !important; box-shadow:none; border: #e0d7d7 !important;}
+.dark-mode .tr {background:#f5f5f5 !important;}
+
+.dark-mode .vardasirrangas {border-bottom:5px solid #f5f5f5;}
+
+.dark-mode .postomygtukai a {background: #f5f5f5;}
+
+.dark-mode .descFRM img {border:white;}
+
+.dark-mode .avaFRM img {border: #f5f5f5!important;}
+.dark-mode .avaFRM {background: none !important;}
+
+.dark-mode .topicsposts {background:none;}
+
+.dark-mode .sfFRM a.gensmall {background:#f5f5f5;}
+.dark-mode .sffrm {border-top: 1px solid #f5f5f5 !important;}
+.dark-mode .sfFRM a:hover {
+  background-image: var(--half-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+border:none;}
+.dark-mode .sfFRM {background:none; }
+
+.dark-mode .imgFRM {background: #f5f5f5!important; border: none!important;}
+
+
+
 .dark-mode .fa_like_list {background:#f5f5f5 !important;}
 .dark-mode .fa_dislike_list {background:#f5f5f5 !important;}
 .dark-mode button.rep-button.fa_like {background:#f5f5f5 !important; border:white !important;box-shadow:none !important;}
@@ -42,7 +81,7 @@ body.dark-mode {background: linear-gradient(to right, #655345, #a69b97, #655345)
 .dark-mode .catbottom {border: #f5f5f5 !important;box-shadow:none !important; background:#f5f5f5 !important;}
 .dark-mode .switcheroo__squircle {border: #f5f5f5;box-shadow:none; background:none;}
 .dark-mode .switcheroo__squircle img {border: #f5f5f5;box-shadow:none; background:none;}
-.dark-mode .switcheroo {background: #655345 !important; border: #f5f5f5;box-shadow:none;}
+.dark-mode .switcheroo {background: none !important; border: none;box-shadow:none;}
 .dark-mode .forumline {border: #f5f5f5 !important;box-shadow:none;}
 .dark-mode .forumostatistika {background: #fafbfc !important; border: #f5f5f5;box-shadow:none;}
 .dark-mode .prisijungepara {background: #fafbfc !important; border: #f5f5f5;box-shadow:none;}
