@@ -1,25 +1,3 @@
-.sceditor-dropdown.sceditor-giphy {margin-top:-250px !important; margin-left:-300px;}
-.forumline.noprint {text-transform:uppercase; font-size:9px;}
-.puslapiukaivisible, .watchtopic {font-family:'lemon/milk light', sans-serif; font-size:9px;letter-spacing:1px;}
-.griztiirealybe {display:none;}
-.sceditor-container.ltr.sourceMode, div.sceditor-toolbar, div.sceditor-group, a.sceditor-button, a.sceditor-button.hover {
-background:none !important;
-  border:none !important;
-
-}
-.sceditor-container iframe, .sceditor-container textarea {
-text-align:justify;
-margin:0 !important;
-  padding:6px !important;
-line-height: 16px!important;
-color: white !important;
-font-size:12px !important;
-  font-family:'montserrat',sans-serif !important;
-width:1050px;
-  background-color: #333631 !important;
-  border-radius:7px;
-}
-
 .patiktukai {display:none;}
 .quote {
     letter-spacing: 1px;
