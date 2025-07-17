@@ -99,13 +99,10 @@ body {
     height: 100%;
     object-fit: cover;
     display: block;
-    filter: blur(2px);
+    filter: blur(3px);
     transition: filter 0.3s ease;
 }
 
-.album-item:hover .album-cover {
-    filter: blur(0);
-}
 
 .album-info {
     position: absolute;
