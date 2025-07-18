@@ -1,27 +1,48 @@
-:root {
+/* Complete Gallery CSS - Isolated Version */
+.gallery-container,
+.gallery-container *,
+.gallery-container *::before,
+.gallery-container *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    line-height: 1;
+    border: 0;
+    outline: 0;
+    background-repeat: no-repeat;
+    list-style: none;
+    text-decoration: none;
+}
+
+.gallery-container {
+    all: initial;
     --background-color: #121212;
     --header-color: #1e1e1e;
     --border-color: #333;
     --text-color: #e0e0e0;
     --highlight-color: #0a84ff;
-}
-
-
-.gallery-container {
-      color: var(--text-color);
+    
+    display: block;
+    color: var(--text-color);
     max-width: 1200px;
+    width: 100%;
     margin: 0 auto;
-    background-color: #1e1e1e;
+    background-color: var(--header-color);
     border-radius: 10px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
     overflow: hidden;
-  margin: 0;
-    padding: 0;
-    box-sizing: border-box;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    isolation: isolate;
+    contain: content;
+    font-size: 16px;
+    line-height: 1.5;
 }
 
-.gallery-header {
+/* Header Styles */
+.gallery-container .gallery-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -30,12 +51,19 @@
     border-bottom: 1px solid var(--border-color);
 }
 
-.gallery-title {
+.gallery-container .gallery-title {
     font-size: 18px;
     font-weight: 500;
 }
 
-.view-options button {
+/* View Options */
+.gallery-container .view-options {
+    display: flex;
+}
+
+.gallery-container .view-options button {
+    appearance: none;
+    -webkit-appearance: none;
     background: none;
     border: none;
     color: var(--text-color);
@@ -44,50 +72,56 @@
     padding: 5px 10px;
     border-radius: 4px;
     margin-left: 10px;
+    font-family: inherit;
 }
 
-.view-options button.active {
+.gallery-container .view-options button.active {
     background-color: rgba(10, 132, 255, 0.2);
     color: var(--highlight-color);
 }
 
-.view-options button:hover {
+.gallery-container .view-options button:hover {
     background-color: rgba(10, 132, 255, 0.1);
 }
 
-.photos-container {
+/* Photos Grid */
+.gallery-container .photos-container {
     padding: 20px;
     min-height: calc(100vh - 150px);
 }
 
-.photos-grid {
+.gallery-container .photos-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 15px;
 }
 
-.albums-grid {
+.gallery-container .albums-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
     gap: 20px;
     display: none;
 }
 
-.album-item {
+/* Album Items */
+.gallery-container .album-item {
     cursor: pointer;
     border-radius: 8px;
     overflow: hidden;
     transition: transform 0.2s, box-shadow 0.2s;
     position: relative;
+    width: 100%;
     height: 180px;
+    min-height: 180px;
+    max-height: 180px;
 }
 
-.album-item:hover {
+.gallery-container .album-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
 
-.album-cover {
+.gallery-container .album-cover {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -96,8 +130,7 @@
     transition: filter 0.3s ease;
 }
 
-
-.album-info {
+.gallery-container .album-info {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -107,7 +140,7 @@
     color: white;
 }
 
-.album-name {
+.gallery-container .album-name {
     font-weight: 500;
     margin-bottom: 4px;
     white-space: nowrap;
@@ -116,17 +149,12 @@
     color: white;
 }
 
-.album-count {
+.gallery-container .album-count {
     font-size: 12px;
     color: rgba(255, 255, 255, 0.8);
 }
 
-.album-count {
-    font-size: 12px;
-    color: #aaa;
-}
-
-.album-item.locked::after {
+.gallery-container .album-item.locked::after {
     content: '🔒';
     position: absolute;
     top: 10px;
@@ -141,7 +169,8 @@
     font-size: 12px;
 }
 
-.photo-item {
+/* Photo Items */
+.gallery-container .photo-item {
     position: relative;
     border-radius: 8px;
     overflow: hidden;
@@ -150,20 +179,20 @@
     transition: transform 0.2s, box-shadow 0.2s;
 }
 
-.photo-item:hover {
+.gallery-container .photo-item:hover {
     transform: scale(1.02);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     z-index: 1;
 }
 
-.photo-item img {
+.gallery-container .photo-item img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
 }
 
-.photo-overlay {
+.gallery-container .photo-overlay {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -175,55 +204,57 @@
     transition: opacity 0.2s;
 }
 
-.photo-item:hover .photo-overlay {
+.gallery-container .photo-item:hover .photo-overlay {
     opacity: 1;
 }
 
-.photo-title {
+.gallery-container .photo-title {
     font-size: 12px;
     margin-bottom: 5px;
 }
 
-.photo-date {
+.gallery-container .photo-date {
     font-size: 10px;
     opacity: 0.8;
 }
 
-.lightbox {
+/* Lightbox Styles */
+.gallery-container .lightbox {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
     background-color: rgba(0, 0, 0, 0.9);
     display: flex;
     justify-content: center;
     align-items: center;
-    z-index: 1000;
+    z-index: 2147483647;
     opacity: 0;
     pointer-events: none;
     transition: opacity 0.3s;
+    font-family: inherit;
 }
 
-.lightbox.active {
+.gallery-container .lightbox.active {
     opacity: 1;
     pointer-events: all;
 }
 
-.lightbox-content {
+.gallery-container .lightbox-content {
     position: relative;
-    max-width: 90%;
-    max-height: 90%;
+    max-width: 90vw;
+    max-height: 90vh;
 }
 
-.lightbox-content img {
+.gallery-container .lightbox-content img {
     max-width: 100%;
     max-height: 90vh;
     display: block;
     border-radius: 5px;
 }
 
-.lightbox-close {
+.gallery-container .lightbox-close {
     position: absolute;
     top: -40px;
     right: 0;
@@ -232,7 +263,7 @@
     cursor: pointer;
 }
 
-.lightbox-nav {
+.gallery-container .lightbox-nav {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -242,7 +273,7 @@
     transform: translateY(-50%);
 }
 
-.lightbox-nav button {
+.gallery-container .lightbox-nav button {
     background: rgba(255, 255, 255, 0.2);
     border: none;
     color: white;
@@ -256,32 +287,34 @@
     justify-content: center;
 }
 
-.lightbox-nav button:hover {
+.gallery-container .lightbox-nav button:hover {
     background: rgba(255, 255, 255, 0.4);
 }
 
-.password-modal {
+/* Password Modal */
+.gallery-container .password-modal {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
     background-color: rgba(0, 0, 0, 0.7);
     display: flex;
     justify-content: center;
     align-items: center;
-    z-index: 2000;
+    z-index: 2147483647;
     opacity: 0;
     pointer-events: none;
     transition: opacity 0.3s;
+    font-family: inherit;
 }
 
-.password-modal.active {
+.gallery-container .password-modal.active {
     opacity: 1;
     pointer-events: all;
 }
 
-.password-content {
+.gallery-container .password-content {
     background-color: #1e1e1e;
     padding: 20px;
     border-radius: 10px;
@@ -290,11 +323,13 @@
     color: #e0e0e0;
 }
 
-.password-content h3 {
+.gallery-container .password-content h3 {
     margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: 500;
 }
 
-#password-input {
+.gallery-container #password-input {
     width: 100%;
     padding: 10px;
     margin-bottom: 15px;
@@ -302,37 +337,42 @@
     border-radius: 4px;
     background-color: #2a2a2a;
     color: #e0e0e0;
+    font-family: inherit;
 }
 
-.password-buttons {
+.gallery-container .password-buttons {
     display: flex;
     justify-content: space-between;
 }
 
-.password-buttons button {
+.gallery-container .password-buttons button {
     padding: 8px 15px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    font-family: inherit;
 }
 
-#password-submit {
+.gallery-container #password-submit {
     background-color: var(--highlight-color);
     color: white;
 }
 
-#password-cancel {
+.gallery-container #password-cancel {
     background-color: #333;
     color: #e0e0e0;
 }
 
-.error-message {
+.gallery-container .error-message {
     color: #ff3b30;
     margin-top: 10px;
     font-size: 14px;
 }
 
-.back-button {
+/* Back Button */
+.gallery-container .back-button {
+    appearance: none;
+    -webkit-appearance: none;
     background: none;
     border: none;
     color: var(--highlight-color);
@@ -341,24 +381,29 @@
     display: flex;
     align-items: center;
     margin-bottom: 15px;
+    font-family: inherit;
 }
 
-.back-button:hover {
+.gallery-container .back-button:hover {
     text-decoration: underline;
 }
 
+/* Responsive Adjustments */
 @media (max-width: 768px) {
-    .photos-grid, .albums-grid {
+    .gallery-container .photos-grid,
+    .gallery-container .albums-grid {
         grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     }
     
-    .album-cover {
+    .gallery-container .album-item {
         height: 150px;
+        min-height: 150px;
+        max-height: 150px;
     }
 }
 
-/* Light Mode Styles */
-.light-mode {
+/* Light Mode Overrides */
+.gallery-container.light-mode {
     --background-color: #f2f2f2;
     --header-color: #f8f8f8;
     --border-color: #e0e0e0;
@@ -366,65 +411,27 @@
     --highlight-color: #007aff;
 }
 
-.light-mode body {
-    background-color: var(--background-color);
-}
-
-.light-mode .gallery-container {
-    background-color: white;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-}
-
-.light-mode .gallery-header {
+.gallery-container.light-mode .gallery-header {
     background-color: var(--header-color);
     border-bottom-color: var(--border-color);
 }
 
-.light-mode .album-info {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
-}
-
-.light-mode .album-count {
-    color: #666;
-}
-
-.light-mode .photo-item {
+.gallery-container.light-mode .photo-item {
     background-color: #f5f5f5;
 }
 
-.light-mode .photo-overlay {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
-}
-
-.light-mode .password-content {
+.gallery-container.light-mode .password-content {
     background-color: white;
     color: var(--text-color);
 }
 
-.light-mode #password-input {
+.gallery-container.light-mode #password-input {
     background-color: white;
     border-color: var(--border-color);
     color: var(--text-color);
 }
 
-.light-mode #password-cancel {
+.gallery-container.light-mode #password-cancel {
     background-color: var(--border-color);
     color: var(--text-color);
 }
-
-.light-mode .view-options button {
-    color: var(--text-color);
-}
-
-.light-mode .view-options button.active {
-    background-color: rgba(0, 122, 255, 0.1);
-}
-
-.light-mode .view-options button:hover {
-    background-color: rgba(0, 122, 255, 0.1);
-}
-
-.light-mode .back-button {
-    color: var(--highlight-color);
-}
-
