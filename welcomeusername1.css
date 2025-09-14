@@ -124,21 +124,20 @@ filter: grayscale(1) contrast(1.2) brightness(1.2);
         }
         
         .welcome-text {
-text-align:justify; font-size:11px; line-height:15px;
-                    font-weight:normal !important;
+text-align:justify; font-size:11px; line-height:20px;
   text-transform: lowercase;
 vertical-align:middle;
   font-family: 'montserrat',sans-serif;
           color:#6E6761;
         }
-disclaimer {background: var(--half-gradient);
-padding:4px;border-radius:5px;font-family:'lemon/milk light', sans-serif; font-size:7px;font-weight:bold;color:#c7c3bf;letter-spacing:1px;}
+.disclaimer {background: var(--half-gradient);
+padding:4px;border-radius:5px;font-family:'lemon/milk light', sans-serif; font-size:7px;font-weight:bold;color:#c7c3bf;letter-spacing:1px; margin-left: auto;}
 
         .welcome-gif {
             float: left;
             margin: 0px 7px 0px 0px;
             width: 150px;
-            height: 75px;
+            height: 80px;
           object-fit:cover;
             border-radius: 7px;
             border: 1px solid #353331;
@@ -258,5 +257,4 @@ font-family:'lemon/milk light',sans-serif;            letter-spacing: 2px;
             background: #21211F;
             text-transform: uppercase;
             letter-spacing: 1.5px;
-
         }
