@@ -124,14 +124,15 @@ filter: grayscale(1) contrast(1.2) brightness(1.2);
         }
         
         .welcome-text {
-text-align:justify; font-size:11px; line-height:20px;
+text-align:justify; font-size:11px; line-height:15px;
   text-transform: lowercase;
+font-weight:normal !important}
 vertical-align:middle;
   font-family: 'montserrat',sans-serif;
           color:#6E6761;
         }
 .disclaimer {background: var(--half-gradient);
-padding:4px;border-radius:5px;font-family:'lemon/milk light', sans-serif; font-size:7px;font-weight:bold;color:#c7c3bf;letter-spacing:1px; margin-left: auto;}
+padding:4px;border-radius:5px;font-family:'lemon/milk light', sans-serif; font-size:7px;font-weight:bold;color:#c7c3bf;letter-spacing:1.3px; margin-left: auto;}
 
         .welcome-gif {
             float: left;
@@ -258,3 +259,4 @@ font-family:'lemon/milk light',sans-serif;            letter-spacing: 2px;
             text-transform: uppercase;
             letter-spacing: 1.5px;
         }
+
