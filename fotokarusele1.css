@@ -29,7 +29,13 @@
             border-radius: 7px;
             border: 1px solid #333330;
         }
-
+.carousel-image2 {
+            width: 270px;
+            height: 400px;
+            object-fit: cover;
+            border-radius: 7px;
+            border: 1px solid #333330;
+        }
 
         /* Custom styling for the native scrollbar */
         .carousel::-webkit-scrollbar {
@@ -49,4 +55,5 @@
 
         .carousel::-webkit-scrollbar-thumb:hover {
             background: #8f8984;
+
         }
