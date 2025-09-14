@@ -124,7 +124,8 @@ filter: grayscale(1) contrast(1.2) brightness(1.2);
         }
         
         .welcome-text {
-text-align:justify; font-size:11px; line-height:20px;
+text-align:justify; font-size:11px; line-height:15px;
+                    font-weight:normal !important;
   text-transform: lowercase;
 vertical-align:middle;
   font-family: 'montserrat',sans-serif;
@@ -257,4 +258,5 @@ font-family:'lemon/milk light',sans-serif;            letter-spacing: 2px;
             background: #21211F;
             text-transform: uppercase;
             letter-spacing: 1.5px;
+
         }
