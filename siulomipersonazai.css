@@ -1,0 +1,118 @@
+.character-profile {
+    display: flex;
+    gap: 20px;
+    margin: 20px auto;
+    max-width: 700px;
+    background: #292725;
+    border-radius: 7px;
+    padding: 15px;
+    border: 1px solid #353331;
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.3);
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.char-image-container {
+    position: relative;
+    width: 200px;
+    height: 300px;
+    omject-fit: cover;
+    border-radius: 7px;
+    border: 2px solid #353331;
+}
+
+.char-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: filter 0.5s ease;
+}
+
+.char-image:hover {
+    filter: grayscale(20%) contrast(120%);
+}
+
+.char-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(33, 33, 31, 0.9), transparent);
+    padding: 10px;
+    text-align: center;
+}
+
+.char-name {
+    font-family: 'lemon/milk light', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 2px;
+      color: #8f8984;
+}
+
+.char-surname {
+    font-family: 'lemon/milk light', sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #d8d3cc;
+}
+
+.char-details {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.char-section {
+    border-left: 3px solid #353331;
+    padding-left: 10px;
+}
+
+.char-label {
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #8f8984;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.char-value {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #d8d3cc;
+    font-weight: bold;
+}
+
+.char-description {
+    border-left: 3px solid #353331;
+    padding-left: 10px;
+    flex: 1;
+}
+
+.char-desc-text {
+    font-size: 11px;
+    line-height: 1.4;
+    text-align: justify;
+    color: #b8b2ac;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: lowercase;
+}
+
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .character-profile {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .char-image-container {
+        width: 150px;
+        height: 225px;
+    }
+}
