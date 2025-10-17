@@ -20,15 +20,9 @@
     filter: grayscale(30%) contrast(110%);
 }
 
-.char-info {
-    display: flex;
-    flex-direction: column;
-}
 
 .char-name {
     font-family: 'lemon/milk light', sans-serif;
     font-size: 14px;
     text-transform: uppercase;
-    letter-spacing: 1px;
-    line-height: 1.2;
-}
+    letter-spacing: 1px;}
