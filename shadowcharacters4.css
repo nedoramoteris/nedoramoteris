@@ -11,7 +11,7 @@
 }
 .dark-mode .character-card {background: #e0dcdc; border: #f5f5f5;}
 .dark-mode .char-image img {border:#f5f5f;}
-.char-image img {
+.character-card img {
     width: 60px;
     height: 60px;
     object-fit: cover;
