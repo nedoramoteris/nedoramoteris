@@ -68,7 +68,6 @@ padding:5px;border-radius:5px;
             margin-bottom: 15px;
             transition: transform 0.7s, border-color 0.3s;
           height: 60px;
-filter: grayscale(1) contrast(1.2) brightness(1.2);
         }
         .admin-item:hover .admin-avatar {
             transform: scale(1);          
@@ -261,3 +260,4 @@ font-family:'lemon/milk light',sans-serif;            letter-spacing: 2px;
             letter-spacing: 1.5px;
 
         }
+
