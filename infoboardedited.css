@@ -3,7 +3,7 @@
             width: 100%;
             max-width: 1050px;
             background: none;
-  border: 1px solid black;
+  border: 0px solid black;
             border-radius: 7px;
             overflow: hidden;
         }
@@ -109,7 +109,7 @@ filter: grayscale(1) contrast(1.2) brightness(1.2);
             padding: 20px;
             background: #33312e;
             border-radius: 7px;
-            border-left: 4px solid #666F73;
+            border-left: 0px solid #666F73;
         }
         
         .welcome-title {
@@ -183,7 +183,7 @@ font-family:'lemon/milk light',sans-serif;            letter-spacing: 2px;
         }
         
         .link-list li:before {
-            content: "▌";
+            content: "";
             position: absolute;
             left: -30px;
             background-image: var(--half-gradient);
@@ -259,4 +259,5 @@ font-family:'lemon/milk light',sans-serif;            letter-spacing: 2px;
             background: #21211F;
             text-transform: uppercase;
             letter-spacing: 1.5px;
+
         }
