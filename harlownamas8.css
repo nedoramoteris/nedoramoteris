@@ -61,7 +61,7 @@
             top: 60%;
             left: 30%;
         }
-        
+        .pasdeja{top:0%;left:82%;width:120px;}
         .valgomasis {
             top: 42%;
             left: 75%;
@@ -135,4 +135,5 @@ border-radius:4px;
 background:#2b2928;
 padding:5px;
 width: auto;}
+
 
