@@ -124,6 +124,7 @@
 .civilizacija{top:98%;left:70%;}
 .miskai{top:15%;left:50%;}
 .parkingas{top:64%;left:70%;}
+.iejimass{top:64%;left:30%;}
 .lokacijosid {text-transform:uppercase;
 font-size:13px;
 font-family:'lemon/milk light', sans-serif;
@@ -134,3 +135,4 @@ border-radius:4px;
 background:#2b2928;
 padding:5px;
 width: auto;}
+
