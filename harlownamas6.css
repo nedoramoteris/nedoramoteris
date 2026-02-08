@@ -3,7 +3,17 @@
             width: 800px;
             height: 600px;
         }
-        
+        .teritorijaai {
+            position: relative;
+            width: 800px;
+            height: 1000px;
+        }
+        .teritorija-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+          border-radius:7px;
+        }
         .house-image {
             width: 100%;
             height: 100%;
@@ -56,6 +66,10 @@
             top: 42%;
             left: 75%;
         }
+        .minidarzelis {
+           top: 32%;
+            left: 12%;
+        }
         
         .miegamasis {
             top: 53%;
@@ -78,38 +92,38 @@
             left: 40%;
         }
  .triusiai {
-            top: 69%;
-            left: 7%;
+            top: 73%;
+            left: 14%;
         }
 
  .vistos {
-            top: 65%;
-            left: 13%;
+            top: 52%;
+            left: 15%;
         }
  .lieptas {
-            top: 49%;
-            left: 55%;
+            top: 32%;
+            left: 40%;
         }
 
  .galiniskiemas {
-            top: 55%;
-            left: 75%;
+            top: 50%;
+            left: 80%;
         }
  .slaptasdarzas {
-            top: 32%;
-            left: 12%;
+            top: 20%;
+            left: 8%;
         }
  .menopasiure {
-            top: 49%;
-            left: 32%;
+            top: 30%;
+            left: 30%;
         }
  .prieskambaris {
             top: 69%;
             left: 30%;
         }
-.civilizacija{top:100%;left:80%;}
+.civilizacija{top:98%;left:70%;}
 .miskai{top:15%;left:50%;}
-.parkingas{top:81%;left:70%;}
+.parkingas{top:64%;left:70%;}
 .lokacijosid {text-transform:uppercase;
 font-size:13px;
 font-family:'lemon/milk light', sans-serif;
