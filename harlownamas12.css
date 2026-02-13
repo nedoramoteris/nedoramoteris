@@ -1,3 +1,4 @@
+
         .harlownamas {
             position: relative;
             width: 800px;
@@ -61,8 +62,7 @@
             top: 60%;
             left: 30%;
         }
-        .pasdeja{top:5%;left:82%;}
-.imiska{top:5%;left:2%;}
+        
         .valgomasis {
             top: 42%;
             left: 75%;
@@ -93,7 +93,7 @@
             left: 40%;
         }
  .triusiai {
-            top: 73%;
+            top: 70%;
             left: 14%;
         }
 
@@ -102,7 +102,7 @@
             left: 15%;
         }
  .lieptas {
-            top: 32%;
+            top: 35%;
             left: 40%;
         }
 
@@ -115,7 +115,7 @@
             left: 8%;
         }
  .menopasiure {
-            top: 30%;
+            top: 33%;
             left: 30%;
         }
  .prieskambaris {
@@ -125,7 +125,9 @@
 .civilizacija{top:98%;left:70%;}
 .miskai{top:15%;left:50%;}
 .parkingas{top:64%;left:70%;}
-.iejimass{top:64%;left:30%;}
+.iejimass{top:61%;left:30%;}
+.pasdeja{top:5%;left:82%;}
+.imiska{top:5%;left:2%;}
 .lokacijosid {text-transform:uppercase;
 font-size:13px;
 font-family:'lemon/milk light', sans-serif;
@@ -136,9 +138,3 @@ border-radius:4px;
 background:#2b2928;
 padding:5px;
 width: auto;}
-
-
-
-
-
-
