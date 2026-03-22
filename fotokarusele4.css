@@ -48,3 +48,23 @@
     font-family: inherit;
     padding: 4px 0;
 }
+
+/* Custom styling for the native scrollbar */
+.carousel::-webkit-scrollbar {
+    height: 8px;
+}
+
+.carousel::-webkit-scrollbar-track {
+    background: none;
+    border-radius: 4px;
+    border: 1px solid #333330;
+}
+
+.carousel::-webkit-scrollbar-thumb {
+    background: #877D73;
+    border-radius: 4px;
+}
+
+.carousel::-webkit-scrollbar-thumb:hover {
+    background: #8f8984;
+}
