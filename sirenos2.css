@@ -1,7 +1,5 @@
 /* style.css */
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700&display=swap');
-body {background:black;}
-
 
 
 .sirens-table td {
@@ -30,6 +28,8 @@ body {background:black;}
   color:#6e6761;
 }
 
+.dark-mode .sirens-table {background: #f5f5f5; border: none !important;}
+
 .sirens-table col:nth-child(1) {
   width: 20%;
 }
@@ -43,7 +43,7 @@ body {background:black;}
 .sirens-table td {
   text-align: justify;
   vertical-align: top;
-  font-size: 11px;
+  font-size: 12px;
   padding: 8px;
   box-sizing: border-box;
 
@@ -87,7 +87,7 @@ width: 700px;
   max-width: 100%;
   margin: 10px auto 0 auto; /* ← Centers the notes (top margin 10px, auto on sides) */
   font-family: 'Montserrat', sans-serif;
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.4;
   text-align: justify;
   color:#6e6761;
