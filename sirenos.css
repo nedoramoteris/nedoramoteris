@@ -1,0 +1,99 @@
+/* style.css */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700&display=swap');
+body {background:black;}
+
+
+
+.sirens-table td {
+  font-weight: 400;}
+
+.sirens-table-wrapper {
+  width: 700px;
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 0 auto;
+}
+
+.sirens-table {
+  width: 700px;
+  max-width: 100%;
+  border-collapse: separate;
+  border-spacing: 5px 0;
+  border: 2px solid #333330;
+  background: #292725;
+  border-radius: 7px;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  line-height: 1.4;
+  box-sizing: border-box;
+  color:#6e6761;
+}
+
+.sirens-table col:nth-child(1) {
+  width: 20%;
+}
+
+.sirens-table col:nth-child(2),
+.sirens-table col:nth-child(3) {
+  width: 40%;
+}
+
+.sirens-table th,
+.sirens-table td {
+  text-align: justify;
+  vertical-align: top;
+  font-size: 11px;
+  padding: 8px;
+  box-sizing: border-box;
+
+}
+
+.sirens-table th,
+.sirens-table td:first-child {
+  font-weight: 700;
+}
+
+.sirens-table th {
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.sirens-table td:first-child {
+  text-transform: uppercase;
+  text-align: left;
+}
+
+
+/* Preserve the requested outer border with rounded corners */
+.sirens-table tr:first-child th:first-child {
+  border-top-left-radius: 7px;
+}
+
+.sirens-table tr:first-child th:last-child {
+  border-top-right-radius: 7px;
+}
+
+.sirens-table tr:last-child td:first-child {
+  border-bottom-left-radius: 7px;
+}
+
+.sirens-table tr:last-child td:last-child {
+  border-bottom-right-radius: 7px;
+}
+
+.sirens-notes {
+width: 700px;
+  max-width: 100%;
+  margin: 10px auto 0 auto; /* ← Centers the notes (top margin 10px, auto on sides) */
+  font-family: 'Montserrat', sans-serif;
+  font-size: 11px;
+  line-height: 1.4;
+  text-align: justify;
+  color:#6e6761;
+}
+
+.sirens-notes strong {
+  text-transform: uppercase;
+  margin: 0 auto;
+}
